@@ -1,5 +1,8 @@
 _repo: The-Mirror-of-Literature-Amusement-and-InstructionVolume-20-No.-562-Saturday-August-18-1832._11568
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11568#The-Mirror-of-Literature-Amusement-and-InstructionVolume-20-No.-562-Saturday-August-18-1832.
 gutenberg_bookshelf: The Mirror of Literature, Amusement, and Instruction
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
